@@ -1,0 +1,1 @@
+var json_Kuburan__47 = {"type":"FeatureCollection","name":"Kuburan__47","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"NamaPemili":"sumarno","LuasLahan":"5150","NoContact":"081298765421","X":97.97744,"Y":4.47737},"geometry":{"type":"Point","coordinates":[97.977437224881427,4.477367248620104]}}]}

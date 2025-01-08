@@ -1,0 +1,1 @@
+var json_Tower_point_30 = {"type":"FeatureCollection","name":"Tower_point_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Statusmili":"Milik Negara","Luas_Bangu":"207","ORIG_FID":"0","X":97.98175,"Y":4.48675},"geometry":{"type":"Point","coordinates":[97.981751397845173,4.486754175347813]}}]}
